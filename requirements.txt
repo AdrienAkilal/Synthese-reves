@@ -1,0 +1,5 @@
+streamlit
+mistralai
+groq
+requests
+python-dotenv
