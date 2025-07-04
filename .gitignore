@@ -1,20 +1,10 @@
-# Environnement virtuel
-venv/
-
-# Fichiers sensibles
+# Fichier combiné sans conflit
 .env
 dreams.json
-
-# Cache et artefacts
+venv/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.db
 .DS_Store
-
-# Jupyter (au cas où un jour tu les utilises)
-.ipynb_checkpoints/
-
-# Streamlit
 .streamlit/
